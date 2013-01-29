@@ -9,3 +9,4 @@ Most of the concepts here are learned from [homoiconic](https://github.com/ragan
 
 * ```inside``` - A Kestrel with mutation on the parent object.
 * ```returning``` - A Kestrel without mutation on the parent object.
+* ```into``` - A thrush that reverses the order of execution.
